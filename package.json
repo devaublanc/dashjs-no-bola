@@ -1,6 +1,6 @@
 {
-  "name": "dashjs-no-bola",
-  "version": "1.0.0",
+  "name": "dashjs",
+  "version": "1.0.1",
   "description": "",
   "main": "dash.all.min.js",
   "scripts": {
